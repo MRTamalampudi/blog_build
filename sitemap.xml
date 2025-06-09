@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/css/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/html/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/language/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/tags/language/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/syntax/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/markdown-syntax/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/themes/</loc>
+    <loc>https://mrtamalampudi.github.io/blog_build/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
